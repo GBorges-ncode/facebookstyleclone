@@ -35,35 +35,35 @@ class PostList extends Component {
       {
         id: 2,
         author: {
-          name: "Elon Musk",
-          avatar: "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/75/755f87b22d0cf6f2dacd7e259d4b0023f17d8571_full.jpg",
+          name: "Anakin",
+          avatar: "https://pm1.narvii.com/6925/f2111932b97267eeacf3ffc0f783961a5543f5der1-1400-1400v2_hq.jpg",
         },
         date: "2019 Dez 03",
-        content: "Anyone looking to buy a new car?",
+        content: "I'm so nervous right now, please help?",
         comments: [
           {
             id: 1,
             author: {
-              name: "Tony Stark",
-              avatar: "https://imagens.canaltech.com.br/celebridades/78.400.jpg",
+              name: "Obi-wan Kenobi",
+              avatar: "https://i1.sndcdn.com/avatars-000076940968-lkv6qt-t500x500.jpg",
             },
-            content: "I am!"
+            content: "Panicking Skywalker !!!"
           },
           {
             id: 2,
             author: {
-              name: "Tony Stark",
-              avatar: "https://imagens.canaltech.com.br/celebridades/78.400.jpg",
+              name: "Chewbacca",
+              avatar: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ34hzt2vupJJopu9UyEy2cPs0ZVvsfy3U6YusVAa65vz7Nq4Hg",
             },
-            content: "Not eletric though !"
+            content: "AAARARRRGWWWH!!!"
           },
           {
             id: 3,
             author: {
-              name: "Bill Gates",
-              avatar: "https://pbs.twimg.com/profile_images/988775660163252226/XpgonN0X_400x400.jpg",
+              name: "Han Solo",
+              avatar: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQi1xwsHfl6vhUmUGGDLMf4dxy-Umm5XLV1KLo_ActS4p_jmwnf",
             },
-            content: "Ouch !"
+            content: "Not funny, chewie!"
           }
           
         ]
@@ -71,27 +71,27 @@ class PostList extends Component {
       {
         id: 3,
         author: {
-          name: "Linus",
-          avatar: "https://avatars.sched.co/6/28/9047161/avatar.jpg?4a3",
+          name: "Trooper",
+          avatar: "https://vignette.wikia.nocookie.net/pt.starwars/images/4/46/Stormtrooper_Anovos.png/revision/latest/top-crop/width/360/height/450?cb=20170103164542",
         },
         date: "2019 Dez 15",
-        content: "@Bill Gates, can I have a Windows 11 beta version before Christmas?",
+        content: "@Start Wars producers. Why did the movies come out 4, 5, 6, 1, 2, 3?",
         comments: [
           {
             id: 1,
             author: {
-              name: "Bill Gates",
-              avatar: "https://pbs.twimg.com/profile_images/988775660163252226/XpgonN0X_400x400.jpg",
+              name: "Yoda",
+              avatar: "https://vignette.wikia.nocookie.net/starwars/images/d/d6/Yoda_SWSB.png/revision/latest?cb=20150206140125",
             },
-            content: "Are you serious right now?"
+            content: "In charge of scheduling, I was!"
           },
           {
             id: 2,
             author: {
-              name: "Mark",
-              avatar: "https://www.smartinsights.com/wp-content/uploads/2018/11/Mark-Zuckerberg.jpg",
+              name: "Rey",
+              avatar: "https://avatarfiles.alphacoders.com/120/120620.jpg",
             },
-            content: "OMG !!!"
+            content: "OMG, Is it true?"
           }
           
         ]
